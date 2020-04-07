@@ -1,0 +1,139 @@
+
+body{
+background-color:black;
+
+
+
+}
+h1{
+	text-align:center;
+	color:#32CD98;
+	
+	
+	
+}
+ 
+.container{
+	max-width:1050px;
+	background-color:red;
+	margin:0 auto;
+	padding:20px;
+	
+	
+	
+	
+}
+#personal-section{
+	
+}
+.content{
+	
+	
+	
+}
+.left-div{
+	width:40%;
+	padding:10%;
+
+	
+}
+.right-div{
+	width:70%;
+	padding:5%;
+	
+}
+h2,h3,h4,h5,h6{
+   color:white;	
+	
+	
+	
+}
+p{
+	color:white;
+	font-size:20px;
+	
+	
+	
+}
+h4{
+	color:green;
+	
+	
+	
+}
+.logo-image{
+	float:left;
+	border:1px solid white;
+	width:230px;
+	border-radius:20%;
+	
+}
+.header-bio{
+	
+	float:left;
+	padding:10px;
+	
+	
+}
+.header-contact{
+	float:right;
+	
+	
+	
+}
+
+.bottom-container{
+	background-color:gray;
+	text-align:center;
+	border:2px solid white;
+	
+	
+	
+}
+.bottom-container a{
+	
+	text-decoration:none;
+	
+	
+}
+.bottom-container a:hover{
+	color:tomato;
+	
+	
+}
+
+*{
+margin:0px;
+padding:0px;
+}
+
+#contai ul{
+list-style:none;
+}
+#contai ul li{
+background-color:green;
+height:60px;
+width:150px;
+text-align:center;
+float:RIGHT;
+color:white;
+line-height:50px;
+
+border-radius:20%;
+
+}
+#contai ul ul{
+display:none;
+
+
+
+}
+#contai ul li:hover>ul{
+display:block;
+
+}
+#contai ul li:hover{
+background-color:black;
+
+
+}
